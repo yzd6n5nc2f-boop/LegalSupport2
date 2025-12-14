@@ -1,0 +1,7 @@
+{
+  "name": "UK Family Court Assistant",
+  "description": "A calm, professional assistant to help prepare UK Family Court documents (C100, Form E) via voice or text.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
